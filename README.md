@@ -69,24 +69,10 @@ I'm a **WordPress Developer** based in **Pakistan** with hands-on experience bui
 
 ## 🏆 Featured Projects
 
-### 🌐 [Add Your Project Name Here](https://your-link.com)
-> Short description — what the site does, who it's for, what problem it solves.
+### 🇵🇰 [SarkariPortal — Pakistan Government Services Guide](https://github.com/shehzadwp/sarkari-portal)
+> Pakistan's most complete online directory for government services — NADRA, BISP, FBR, utility bills, passports, jobs, tests, currency & gold rates, and 50+ more services. All in one place, completely free.
 
-**Tech used:** WordPress · WooCommerce · Elementor · PHP
-
----
-
-### 🛒 [Add Your Project Name Here](https://your-link.com)
-> Short description of this project.
-
-**Tech used:** WordPress · Custom Theme · ACF · Speed Optimization
-
----
-
-### 🚀 [Add Your Project Name Here](https://your-link.com)
-> Short description of this project.
-
-**Tech used:** WordPress · Divi · PHP · MySQL
+**Tech used:** WordPress · Elementor · Astra Theme · PHP · MySQL · Contact Form 7 · Yoast SEO
 
 ---
 
